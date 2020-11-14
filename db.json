@@ -1,0 +1,32 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "javed"
+  },
+  "pets": [
+    {
+      "id": "34324234",
+      "createdAt": "324234",
+      "name": "Dog Name",
+      "type": "dog"
+    },
+    {
+      "id": "34324234",
+      "createdAt": "324234",
+      "name": "Cat Name",
+      "type": "cat"
+    },
+    {
+      "id": "gMm5hjy8lk3SKJAjc71fR",
+      "createdAt": 1601263178827,
+      "name": "mydog",
+      "type": "dog"
+    },
+    {
+      "id": "uLgB48G9SkqHYfV2ko3VB",
+      "createdAt": 1601263227734,
+      "name": "mycat",
+      "type": "cat"
+    }
+  ]
+}
